@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>1-55-_jpg.rf.22b823cdcaf3a92ad8050c2f6fbf1f9b.jpg</filename>
+	<path>1-55-_jpg.rf.22b823cdcaf3a92ad8050c2f6fbf1f9b.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>3744</width>
+		<height>5616</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Without Helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1354</xmin>
+			<xmax>1876</xmax>
+			<ymin>1004</ymin>
+			<ymax>1589</ymax>
+		</bndbox>
+	</object>
+</annotation>

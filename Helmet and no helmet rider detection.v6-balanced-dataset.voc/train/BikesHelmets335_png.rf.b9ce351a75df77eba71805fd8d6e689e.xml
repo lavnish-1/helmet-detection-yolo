@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>BikesHelmets335_png.rf.b9ce351a75df77eba71805fd8d6e689e.jpg</filename>
+	<path>BikesHelmets335_png.rf.b9ce351a75df77eba71805fd8d6e689e.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Without Helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>156</xmin>
+			<xmax>203</xmax>
+			<ymin>51</ymin>
+			<ymax>113</ymax>
+		</bndbox>
+	</object>
+</annotation>

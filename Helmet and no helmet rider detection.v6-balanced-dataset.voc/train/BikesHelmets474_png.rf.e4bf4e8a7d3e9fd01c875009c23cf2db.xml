@@ -1,0 +1,66 @@
+<annotation>
+	<folder></folder>
+	<filename>BikesHelmets474_png.rf.e4bf4e8a7d3e9fd01c875009c23cf2db.jpg</filename>
+	<path>BikesHelmets474_png.rf.e4bf4e8a7d3e9fd01c875009c23cf2db.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>267</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>With Helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>286</xmin>
+			<xmax>315</xmax>
+			<ymin>65</ymin>
+			<ymax>97</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>With Helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>197</xmin>
+			<xmax>225</xmax>
+			<ymin>64</ymin>
+			<ymax>96</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>With Helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>110</xmin>
+			<xmax>150</xmax>
+			<ymin>73</ymin>
+			<ymax>116</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>With Helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>75</xmin>
+			<xmax>106</xmax>
+			<ymin>61</ymin>
+			<ymax>96</ymax>
+		</bndbox>
+	</object>
+</annotation>

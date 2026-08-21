@@ -1,0 +1,40 @@
+<annotation>
+	<folder></folder>
+	<filename>motorbike-young-rider-thailand-street-scene-with-older-brother-collecting-HDT1C5_jpg.rf.62203ca1babf0d0eebcb910116cea07d.jpg</filename>
+	<path>motorbike-young-rider-thailand-street-scene-with-older-brother-collecting-HDT1C5_jpg.rf.62203ca1babf0d0eebcb910116cea07d.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>958</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Without Helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>657</xmin>
+			<xmax>808</xmax>
+			<ymin>157</ymin>
+			<ymax>307</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Without Helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>821</xmin>
+			<xmax>942</xmax>
+			<ymin>100</ymin>
+			<ymax>207</ymax>
+		</bndbox>
+	</object>
+</annotation>

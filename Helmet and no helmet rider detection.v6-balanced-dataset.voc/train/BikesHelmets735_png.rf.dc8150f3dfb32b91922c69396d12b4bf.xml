@@ -1,0 +1,14 @@
+<annotation>
+	<folder></folder>
+	<filename>BikesHelmets735_png.rf.dc8150f3dfb32b91922c69396d12b4bf.jpg</filename>
+	<path>BikesHelmets735_png.rf.dc8150f3dfb32b91922c69396d12b4bf.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>267</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

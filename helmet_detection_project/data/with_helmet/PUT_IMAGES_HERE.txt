@@ -1,0 +1,1 @@
+Put images of riders/heads WITH a helmet here (.jpg/.png). See train_helmet_classifier.py docstring for dataset sources.

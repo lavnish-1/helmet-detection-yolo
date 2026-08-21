@@ -1,0 +1,16 @@
+Test set size: 252
+Overall accuracy: 0.9048
+
+                precision    recall  f1-score   support
+
+   with_helmet       0.93      0.88      0.91       130
+without_helmet       0.88      0.93      0.90       122
+
+      accuracy                           0.90       252
+     macro avg       0.91      0.91      0.90       252
+  weighted avg       0.91      0.90      0.90       252
+
+Confusion matrix (rows=actual, cols=predicted):
+                     with_helmet  without_helmet
+with_helmet                  115              15
+without_helmet                 9             113

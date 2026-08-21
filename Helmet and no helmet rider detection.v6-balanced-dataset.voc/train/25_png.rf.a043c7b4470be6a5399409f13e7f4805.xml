@@ -1,0 +1,66 @@
+<annotation>
+	<folder></folder>
+	<filename>25_png.rf.a043c7b4470be6a5399409f13e7f4805.jpg</filename>
+	<path>25_png.rf.a043c7b4470be6a5399409f13e7f4805.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>895</width>
+		<height>447</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Without Helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>78</xmin>
+			<xmax>176</xmax>
+			<ymin>10</ymin>
+			<ymax>104</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Without Helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>255</xmin>
+			<xmax>305</xmax>
+			<ymin>38</ymin>
+			<ymax>111</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Without Helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>514</xmin>
+			<xmax>592</xmax>
+			<ymin>40</ymin>
+			<ymax>110</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Without Helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>776</xmin>
+			<xmax>839</xmax>
+			<ymin>45</ymin>
+			<ymax>111</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>main-qimg-562d06de0f1412a6ba0f727f2cb2b5b9_jpg.rf.add659b81383a91ce5ee30a2eae7e5b4.jpg</filename>
+	<path>main-qimg-562d06de0f1412a6ba0f727f2cb2b5b9_jpg.rf.add659b81383a91ce5ee30a2eae7e5b4.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>602</width>
+		<height>827</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Without Helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>249</xmin>
+			<xmax>389</xmax>
+			<ymin>147</ymin>
+			<ymax>322</ymax>
+		</bndbox>
+	</object>
+</annotation>

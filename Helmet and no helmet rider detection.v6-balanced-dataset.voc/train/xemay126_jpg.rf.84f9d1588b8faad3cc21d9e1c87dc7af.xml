@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>xemay126_jpg.rf.84f9d1588b8faad3cc21d9e1c87dc7af.jpg</filename>
+	<path>xemay126_jpg.rf.84f9d1588b8faad3cc21d9e1c87dc7af.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>472</width>
+		<height>303</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>licence</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>210</xmin>
+			<xmax>290</xmax>
+			<ymin>124</ymin>
+			<ymax>207</ymax>
+		</bndbox>
+	</object>
+</annotation>
