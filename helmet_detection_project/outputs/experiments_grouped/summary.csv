@@ -1,0 +1,2 @@
+config,runs,test_acc (%),macro_p (%),macro_r (%),macro_f1 (%),val_acc (%),params_M
+main,5,88.68 +/- 1.62,88.07 +/- 1.69,88.94 +/- 1.25,88.34 +/- 1.58,94.40 +/- 0.21,2.23
